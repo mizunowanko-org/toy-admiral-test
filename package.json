@@ -1,1 +1,7 @@
-{}
+{
+  "name": "toy-admiral-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
